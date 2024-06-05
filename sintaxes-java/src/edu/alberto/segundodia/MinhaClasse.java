@@ -1,3 +1,4 @@
+package edu.alberto.segundodia;
 public class MinhaClasse {
 
 public static void main(String[] args) {
